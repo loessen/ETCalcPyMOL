@@ -132,4 +132,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## Credits
 
-Developed using PyMOL API, inspired by Marcus/Redfield/TSH theories. Contact: [Your Email/GitHub].
+Developed using PyMOL API, inspired by Marcus/Redfield/TSH theories. Contact: [essen@chemie.uni-marburg.de/https://github.com/loessen/ETCalcPyMOL].
